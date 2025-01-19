@@ -1,2 +1,2 @@
 run:
-	clang build ./main.c -o ./os && ./os
+	gcc ./main.c -o ./os && ./os
